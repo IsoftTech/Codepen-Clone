@@ -2,8 +2,7 @@ Code pen Editor clone built with reactjs
 
 To test it out, use the following codes:
 
-
-         ### HTML
+###   HTML
 ```
 <html lang="en">
 
@@ -293,8 +292,7 @@ textarea {
     color:  #ffb510;
 }
 ```
-
-    ### JS
+###               JS
 
  ```
 const submitForm = document.querySelector(".add");
