@@ -1,7 +1,8 @@
 Code pen Editor clone built with reactjs
 
 To test it out, use the following codes:
-[Demo] (https://codepen-editor-clone.netlify.app/)
+<br/>
+Live Demo (https://codepen-editor-clone.netlify.app/)
 
 ###   HTML
 ```
